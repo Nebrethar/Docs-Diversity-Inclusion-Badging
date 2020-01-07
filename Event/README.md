@@ -1,1 +1,1 @@
-# Event Diversity Badging
+# Diversity & Inclusion Badging: Events
