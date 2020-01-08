@@ -2,7 +2,7 @@
 
 Metric Question: How does the Code of Conduct for events support diversity and inclusion?
 
-## Required Data
+## Questions
 
 * Does the event website host an event Code of Conduct?
 * Is the Code of Conduct posted at the event?
