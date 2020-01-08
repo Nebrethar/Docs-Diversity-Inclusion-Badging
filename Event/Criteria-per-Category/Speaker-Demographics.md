@@ -2,7 +2,7 @@
 
 Metric Question: How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?
 
-## Required Data
+## Questions
   * Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
  
   * How many speakers identify with a disability?
@@ -27,7 +27,7 @@ Metric Question: How well does the speaker lineup for the event represent a dive
       Prefer not to answer <br />
       
   
-    Provided is a sample answer format for one of the questions here:
+    Provided is a sample answer format for one of the questions:
   
     | Pronoun  | Count |
     | ------------- | ------------- |
