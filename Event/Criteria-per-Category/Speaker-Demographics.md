@@ -3,9 +3,6 @@
 Metric Question: How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?
 
 ## Required Data
-
-Quantitative questions regarding speaker background:
-    
   * Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
  
   * How many speakers identify with a disability?
@@ -30,14 +27,14 @@ Quantitative questions regarding speaker background:
       Prefer not to answer <br />
       
   
-  Provided is a sample answer format for one of the questions here:
+    Provided is a sample answer format for one of the questions here:
   
-  | Pronoun  | Count |
-  | ------------- | ------------- |
-  | He/Him/His  | ??  |
-  | She/Her/Hers  | ??  |
-  | They/Them/Theirs  | ??  |
-  | Other  | ?? |
-  | Prefer not to answer | ?? |
+    | Pronoun  | Count |
+    | ------------- | ------------- |
+    | He/Him/His  | ??  |
+    | She/Her/Hers  | ??  |
+    | They/Them/Theirs  | ??  |
+    | Other  | ?? |
+    | Prefer not to answer | ?? |
       
 **This data must be available to the reviewers in order to qualify.**
