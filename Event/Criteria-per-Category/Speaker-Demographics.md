@@ -3,6 +3,9 @@
 Metric Question: How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?
 
 ## Questions
+
+  * What is the total number of registered speakers at the event?
+  
   * Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
  
   * How many speakers identify with a disability?
