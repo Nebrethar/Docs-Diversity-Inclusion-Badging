@@ -6,7 +6,7 @@ Question: What is the thoroughness, and accessibility of documentation according
 
 Prove that the organization is measuring Documentation with regard to D&I by providing:
 
-  - A completed checklist (see below) for D&I in documentation.
+  - A completed checklist (see below) for D&I in the project's documentation.
 
 ### Checklist
 
