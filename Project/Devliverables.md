@@ -4,7 +4,7 @@
 
 Documentation:
 
-  - A completed checklist for D&I ([found here](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/blob/master/Project/Criteria-Per-Category/Documentation.md)) in the project's documentation.
+  - A completed checklist for D&I ([found here](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/blob/master/Project/Criteria-Per-Category/Documentation.md)) for the project's documentation.
 
 Communication Channels:
 
