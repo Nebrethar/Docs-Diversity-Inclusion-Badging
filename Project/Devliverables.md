@@ -1,6 +1,6 @@
 ## Deliverables
 
-**See the Criteria-Per-Category folder for more information on each metric**
+**See [Criteria per Category](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/tree/master/Project/Criteria-Per-Category) folder for more information on each metric**
 
 Documentation:
 
