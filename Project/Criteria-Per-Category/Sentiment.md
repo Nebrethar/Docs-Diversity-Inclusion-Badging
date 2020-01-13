@@ -6,12 +6,12 @@ Question: What is the sentiment within external communication channels regarding
 
 Prove that the organization is measuring Sentiment by providing at least one of the following:
 
-    - A sentiment analysis of the past 30 days of project mailing list communication
-    - A sentiment analysis of the past 30 days of project IRC communication
-    - A sentiment analysis of the past 30 days of press releases
+  - A sentiment analysis of the past 30 days of project mailing list communication
+  - A sentiment analysis of the past 30 days of project IRC communication
+  - A sentiment analysis of the past 30 days of press releases
 
 ## Criteria
 
-    - The project MUST provide a comprehensive sentiment analysis of their project's communication channels
+  - The project MUST provide a comprehensive sentiment analysis of their project's communication channels
 
 **This data must be available to the reviewers in order to qualify.**
