@@ -2,23 +2,22 @@
 
 **See the Criteria-Per-Category folder for more information on each metric**
 
-Prove that the organization is measuring Documentation with regard to D&I by providing:
+Documentation:
 
-  - A completed checklist for D&I in the project's documentation.
+  - A completed checklist for D&I ([found here](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/blob/master/Project/Criteria-Per-Category/Documentation.md)) in the project's documentation.
 
-Prove that the organization is measuring Response Communication Channels by providing:
+Communication Channels:
 
   - A report on the status of diversity and inclusion in the project's communication channels
 
-Prove that the organization is measuring their project's issues with D&I in mind by providing:
+Issue Tracker:
 
   -
-
-Prove that the organization is measuring Response Times & Quality by providing:
+Response Times & Quality:
 
   - A summary of response time on the project's internal communication host, such as GitHub
 
-Prove that the organization is measuring Sentiment by providing at least one of the following:
+Sentiment:
 
   - A sentiment analysis of the past 30 days of project mailing list communication
   - A sentiment analysis of the past 30 days of project IRC communication
