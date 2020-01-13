@@ -4,7 +4,7 @@ Question:	How welcoming, responsive, respectful are interactions even on hot top
 
 ## Deliverables
 
-Prove that the organization is measuring Response Communication Channels by providing:
+Prove that the organization is measuring Communication Channels by providing:
 
   - A report on the status of diversity and inclusion in the project's communication channels
 
