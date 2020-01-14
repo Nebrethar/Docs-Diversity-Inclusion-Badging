@@ -16,6 +16,6 @@ From the latest registration information on the event:
     
   * How many attendees identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")     
   
-  * Please provide a statement on your event's commitment to Attendee Diversity.
+  * Please provide a statement on your event's commitment to Attendee Diversity & Inclusion.
       
 **This data must be available to the reviewers in order to qualify.**
