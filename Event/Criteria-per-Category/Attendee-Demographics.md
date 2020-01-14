@@ -9,7 +9,7 @@ Section 1:
 
 * Short Answer: Which nations are represented by the attendees at your event, and how many attendees are from each nation listed?
 
-* Essay: How many attendees require accommodations?
+* Short answer: How many attendees require accommodations?
 
 * Essay: How many attendees identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
 
