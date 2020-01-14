@@ -10,36 +10,12 @@ From the latest registration information on the event:
 
   * Which nations are represented by the attendees at your event, and how many attendees are from each nation listed?
  
-  * How many attendees require special accommodations?
+  * How many attendees require accommodations?
     
-  * How many attendees identify with any of the following racial backgrounds?
-  
-    Asian <br />
-    Black <br />
-    Latino <br />
-    Native American <br />
-    Pacific Islander <br />
-    White <br />
-    Self-Identify <br />
-    Prefer not to answer <br />
+  * How many attendees identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
     
-  * How many attendees identify with any of the following pronouns:
+  * How many attendees identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")     
   
-      He/Him/His <br />
-      She/Her/Hers <br />
-      They/Them/Theirs <br />
-      Other <br />
-      Prefer not to answer <br />
-      
-  
-    Provided is a sample answer format for one of the questions:
-  
-    | Pronoun  | Count |
-    | ------------- | ------------- |
-    | He/Him/His  | ??  |
-    | She/Her/Hers  | ??  |
-    | They/Them/Theirs  | ??  |
-    | Other  | ?? |
-    | Prefer not to answer | ?? |
+  * Please provide a statement on your event's commitment to Attendee Diversity.
       
 **This data must be available to the reviewers in order to qualify.**
