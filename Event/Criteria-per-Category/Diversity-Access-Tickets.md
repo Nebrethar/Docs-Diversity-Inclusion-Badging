@@ -15,3 +15,5 @@ Question: How are Diversity Access Tickets used to support diversity and inclusi
   * Yes/No: Are sponsors of diversity access tickets named?
   
   * Yes/No: Are numbers from previous conferences displayed on the event website about how many diversity access tickets were used?
+  
+  * Essay: Please provide a statement on your event's commitment to Attendee Diversity & Inclusion.
