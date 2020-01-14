@@ -1,6 +1,6 @@
 # Attendee Demographics
 
-Question: How diverse and inclusive are the attendees?
+Metric Question: How diverse and inclusive are the attendees?
 
 ## Questions
 
