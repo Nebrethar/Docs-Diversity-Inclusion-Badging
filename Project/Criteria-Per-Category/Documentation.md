@@ -10,7 +10,7 @@ Prove that the organization is measuring Documentation with regard to D&I by pro
 
 ### Checklist
 
-  - (Accessibility Screen Reader)Documentation is accessible according to x standard for screen readers (which tool to use?)
+  - (Accessibility Screen Reader)Documentation is accessible for screen readers
   - (Awareness) Documentation is findable
   - (Clarity) Documentation is easy to follow and structured intuitively
   - (Relevance) Documentation is regularly updated
