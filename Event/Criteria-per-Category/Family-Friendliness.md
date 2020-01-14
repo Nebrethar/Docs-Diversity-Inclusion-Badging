@@ -6,7 +6,7 @@ Question: How does enabling families to attend together support diversity and in
 
 True / False:
 * Does the event have a mother’s room?
-* Does the event  offer child care during the event?
+* Does the event offer child care?
 * Does the event provide activities and care that support tweens/teens (youth) and not only young children?
 * Does the event have special sessions for children?
 
