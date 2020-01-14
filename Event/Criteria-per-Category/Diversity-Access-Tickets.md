@@ -1,6 +1,6 @@
 # Diversity Access Tickets
 
-Question: How are Diversity Access Tickets used to support diversity and inclusion for an event?
+Metric Question: How are Diversity Access Tickets used to support diversity and inclusion for an event?
 
 ## Questions
 
