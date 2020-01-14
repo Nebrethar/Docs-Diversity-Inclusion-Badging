@@ -15,5 +15,3 @@ Metric Question: How well does the speaker lineup for the event represent a dive
   * How many speakers identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
   
   * Please provide a statement on your event's commitment to Speaker Diversity & Inclusion.
-      
-**This data must be available to the reviewers in order to qualify.**
