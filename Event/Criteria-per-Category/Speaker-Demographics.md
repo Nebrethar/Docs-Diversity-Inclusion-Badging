@@ -4,14 +4,14 @@ Metric Question: How well does the speaker lineup for the event represent a dive
 
 ## Questions
 
-  * What is the total number of registered speakers at the event?
-  
-  * Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
+  * Short Answer: What is the total number of registered speakers at the event?
  
-  * How many speakers require accommodations?
-    
-  * How many speakers identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
-    
-  * How many speakers identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
+  * Short Answer: How many speakers require accommodations?
   
-  * Please provide a statement on your event's commitment to Speaker Diversity & Inclusion.
+  * Essay Answer: Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
+    
+  * Essay Answer: How many speakers identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
+    
+  * Essay Answer: How many speakers identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
+  
+  * Essay Answer: Please provide a statement on your event's commitment to Speaker Diversity & Inclusion.
