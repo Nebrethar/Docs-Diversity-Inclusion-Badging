@@ -8,36 +8,12 @@ Metric Question: How well does the speaker lineup for the event represent a dive
   
   * Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
  
-  * How many speakers identify with a disability?
+  * How many speakers require accommodations?
     
-  * How many speakers identify with any of the following racial backgrounds?
-  
-    Asian <br />
-    Black <br />
-    Latino <br />
-    Native American <br />
-    Pacific Islander <br />
-    White <br />
-    Self-Identify <br />
-    Prefer not to answer <br />
+  * How many speakers identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
     
-  * How many speakers identify with any of the following pronouns:
+  * How many speakers identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
   
-      He/Him/His <br />
-      She/Her/Hers <br />
-      They/Them/Theirs <br />
-      Other <br />
-      Prefer not to answer <br />
-      
-  
-    Provided is a sample answer format for one of the questions:
-  
-    | Pronoun  | Count |
-    | ------------- | ------------- |
-    | He/Him/His  | ??  |
-    | She/Her/Hers  | ??  |
-    | They/Them/Theirs  | ??  |
-    | Other  | ?? |
-    | Prefer not to answer | ?? |
+  * Please provide a statement on your event's commitment to Speaker Diversity.
       
 **This data must be available to the reviewers in order to qualify.**
