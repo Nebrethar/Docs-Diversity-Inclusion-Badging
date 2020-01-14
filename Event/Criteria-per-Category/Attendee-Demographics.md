@@ -7,9 +7,9 @@ Metric Question: How diverse and inclusive are the attendees?
 Section 1:
 * Short Answer: What is the total number of registered attendees at the event?
 
-* Short Answer: Which nations are represented by the attendees at your event, and how many attendees are from each nation listed?
-
 * Short answer: How many attendees require accommodations?
+
+* Essay: Which nations are represented by the attendees at your event, and how many attendees are from each nation listed?
 
 * Essay: How many attendees identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
 
