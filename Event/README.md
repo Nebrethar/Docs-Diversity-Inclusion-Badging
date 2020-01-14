@@ -18,7 +18,7 @@ There are four possible statuses for the Diversity and Inclusion Badging Program
   The primary form contains links for five surveys. Each survey is 5 to 10 questions long.<br/><br/>
   You can find the primary form here:<br/>
     https://forms.gle/Wjk6kXZp2jcB5AMu8<br/><br/>
-  Please answer all questions for each survey honestly and comprehensively.<br/>
+  Please answer all questions for each survey. Complete finishing statements for each category honestly and comprehensively.<br/>
   Once you are finished, send an email to <msnell@unomaha.edu> to confirm your completion of the submission process.
   
 ## The Review Process
