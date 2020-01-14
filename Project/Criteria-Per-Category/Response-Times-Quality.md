@@ -1,6 +1,6 @@
 # Response Times & Quality
 
-Question: How quickly and well do we respond to suggestions, PRS, and questions?
+Question: How quickly and well do we respond to suggestions, PR'S, and questions?
 
 ## Deliverables
 
