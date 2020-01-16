@@ -68,8 +68,6 @@ __Response:__
 
 _How quickly and well does the project respond to suggestions, PR'S, and questions?_
 
-_
-
 Explain how (if) your project measures the response time of its administration, developers, and collaborators. 
 
 __Response:__
