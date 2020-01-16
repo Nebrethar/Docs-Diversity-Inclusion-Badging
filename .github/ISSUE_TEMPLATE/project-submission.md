@@ -31,8 +31,8 @@ Complete this questionnaire on D&I ([found here](https://github.com/Nebrethar/Do
     * __Yes / No:__
   * (FOSS standards) Do the README & CONTRIBUTING files provide intended information
     * __Yes / No:__
-    
-__Response:__
+  * Add relevant information here:
+    * __Notes:__
 
 
 
