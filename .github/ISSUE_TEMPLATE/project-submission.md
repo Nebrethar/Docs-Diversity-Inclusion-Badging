@@ -75,6 +75,6 @@ Provide one of the following:
   
 You may provide a link to the analysis in this issue.
 
-__Responese:__
+__Response:__
 
 
