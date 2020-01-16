@@ -13,6 +13,8 @@ Items that are required for you to fill out are __bold__
 
 ## Documentation
 
+_What is the thoroughness, and accessibility of documentation according to a set of criteria?_
+
 Complete this questionnaire on D&I ([found here](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/blob/master/Project/Criteria-Per-Category/Documentation.md)) for the project's documentation.
 
   * (Screen Readers) Is the documentation accessible for screen readers?
@@ -38,6 +40,8 @@ Complete this questionnaire on D&I ([found here](https://github.com/Nebrethar/Do
 
 ## Communication Channels
 
+_How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?_
+
 Provide a report on the status of diversity and inclusion in the project's communication channels
 
 Please include the names and URLs of the public communication channels that the project uses and their impact on the project's diversity & inclusion practices.
@@ -50,6 +54,8 @@ __Response:__
 
 ## Issue Tracker
 
+_How well does the project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors?_
+
 Explain how you use an issue tracker to invite new contributors, skilled contributors, non-technical contributors.
 
 You may provide a link to a public document, or post your explanation in this issue.
@@ -60,6 +66,10 @@ __Response:__
   
 ## Response Times & Quality
 
+_How quickly and well does the project respond to suggestions, PR'S, and questions?_
+
+_
+
 Explain how (if) your project measures the response time of its administration, developers, and collaborators. 
 
 __Response:__
@@ -67,6 +77,8 @@ __Response:__
 
 
 ## Sentiment
+
+_What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels?_
 
 Provide one of the following:
   - Sentiment analysis of the past 30 days of project mailing list communication
