@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Items that are required for you to fill out are in __bold__
+Items that are required for you to fill out are __bold__
 
 **See [Criteria per Category](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/tree/master/Project/Criteria-Per-Category) folder for more information on each metric**
 
@@ -25,9 +25,9 @@ Complete this questionnaire on D&I ([found here](https://github.com/Nebrethar/Do
     * __Yes / No:__
   * (Relevance) Are the environment builds up to date?
     * __Yes / No:__
-  * (Non-Technical Accessibility) Does the documentation limit use of unnecessary technical jargon?
+  * (Non-Technical Accessibility) Does the documentation limit the use of unnecessary technical jargon?
     * __Yes / No:__
-  * (Inclusion) Does the documentation avoid non-inclusive language? (this could be ‘brogrammer’ language, or exclusionary/derogatory language)
+  * (Inclusion) Does the documentation avoid non-inclusive language? (this could be ‘brogrammer’ language or exclusionary/derogatory language)
     * __Yes / No:__
   * (FOSS standards) Do the README & CONTRIBUTING files provide intended information
     * __Yes / No:__
@@ -40,7 +40,7 @@ Complete this questionnaire on D&I ([found here](https://github.com/Nebrethar/Do
 
 Provide a report on the status of diversity and inclusion in the project's communication channels
 
-Please include the names and URLs of the public communcation channels that the project uses, and their impact on the project's diversity & inclusion practices.
+Please include the names and URLs of the public communication channels that the project uses and their impact on the project's diversity & inclusion practices.
 
 You may provide a link to a public document, or post your report in this issue.
 
@@ -69,12 +69,15 @@ __Response:__
 ## Sentiment
 
 Provide one of the following:
-  - A sentiment analysis of the past 30 days of project mailing list communication
-  - A sentiment analysis of the past 30 days of project IRC communication
-  - A sentiment analysis of the past 30 days of press releases
+  - Sentiment analysis of the past 30 days of project mailing list communication
+  - Sentiment analysis of the past 30 days of project IRC communication
+  - Sentiment analysis of the past 30 days of press releases
   
 You may provide a link to the analysis in this issue.
 
 __Response:__
+
+
+
 
 
