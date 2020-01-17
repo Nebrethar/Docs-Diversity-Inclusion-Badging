@@ -1,4 +1,4 @@
-# Event Diversity - Family Friendliness
+# Family Friendliness
 
 Metric Question: How does enabling families to attend together support diversity and inclusion of the event?
 
