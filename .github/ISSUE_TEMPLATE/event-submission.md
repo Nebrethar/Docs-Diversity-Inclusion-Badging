@@ -38,7 +38,27 @@ Section 1:
 Section 2:
 * Please provide a statement on your event's commitment to Attendee Diversity & Inclusion.
   * __Essay:__ 
-  
-  
+
+## Code of Conduct at Event
+
+_How does the Code of Conduct for the event support diversity and inclusion?_
+
+Section 1:
+* Does the event website host an event Code of Conduct?
+  * __Yes/No:__ 
+
+Section 2: (To section 3 if previous answer is NO)
+* Is the Code of Conduct posted at the event?
+  * __Yes/No:__ 
+
+* Does the Event Code of Conduct have a clear avenue for reporting violations at the event?
+  * __Yes/No:__ 
+
+* Does the Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior?
+  * __Yes/No:__ 
+
+Section 3:
+* Please provide a statement on your event's commitment to its Event Code of Conduct
+  * __Essay:__
 
 
