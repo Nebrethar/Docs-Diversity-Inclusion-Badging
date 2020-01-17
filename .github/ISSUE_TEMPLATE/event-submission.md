@@ -102,3 +102,22 @@ Section 3:
   * Please provide a statement on your event's commitment to Family Friendliness.
     * __Essay:__
 
+# Speaker Demographics
+
+_How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?_
+
+Section 1:
+* What is the total number of registered speakers at the event?
+    * __Short Answer:__ 
+* How many speakers require accommodations?
+    * __Short Answer:__ 
+* Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
+    * __Essay:__
+* How many speakers identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
+    * __Essay:__
+* How many speakers identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
+    * __Essay:__
+
+Section 2:
+* Please provide a statement on your event's commitment to Speaker Diversity & Inclusion.
+    * __Essay:__
