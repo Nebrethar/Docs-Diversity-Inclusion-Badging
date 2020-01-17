@@ -61,4 +61,29 @@ Section 3:
 * Please provide a statement on your event's commitment to its Event Code of Conduct
   * __Essay:__
 
+## Diversity Access Tickets
 
+_How are Diversity Access Tickets used to support diversity and inclusion for an event?_
+
+Section 1:
+* Are numbers from previous conferences displayed on the event website about how many diversity access tickets were used?
+  * __Yes/No:__
+  
+* Are regular attendees encouraged to sponsor diversity access tickets?
+  * __Yes/No:__
+  
+* Yes/No: Are sponsors of diversity access tickets named?
+  * __Yes/No:__
+
+* How many different types of diversity access tickets are available for the event?
+  * __Short Answer:__ 
+  
+* What is the price difference between regular and admission with diversity access tickets?
+  * __Short Answer:__ 
+  
+* What are the criteria for qualifying for a diversity access ticket?
+  * __Essay:__ 
+ 
+Section 2: 
+* Please provide a statement on your event's commitment to Diversity Access Tickets.
+  * __Essay:__ 
