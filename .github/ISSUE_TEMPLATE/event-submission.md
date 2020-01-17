@@ -2,7 +2,7 @@
 name: Event Submission
 about: Submit an event to be badged
 title: ''
-labels: ''
+labels: project
 assignees: ''
 
 ---
