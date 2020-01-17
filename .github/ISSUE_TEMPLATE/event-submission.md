@@ -76,7 +76,7 @@ Section 2:
   * Please provide a statement on your event's commitment to Diversity Access Tickets.
     * __Essay:__ 
 
-# Event Diversity - Family Friendliness
+# Family Friendliness
 
 _How does enabling families to attend together support diversity and inclusion of the event?_
 
@@ -101,3 +101,4 @@ Section 1:
 Section 3:
   * Please provide a statement on your event's commitment to Family Friendliness.
     * __Essay:__
+
