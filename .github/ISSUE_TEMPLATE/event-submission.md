@@ -30,7 +30,6 @@ Section 1:
     * __Essay:__ 
 * How many attendees identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
   * __Essay:__ 
-
 Section 2:
 * Please provide a statement on your event's commitment to Attendee Diversity & Inclusion.
   * __Essay:__ 
@@ -42,7 +41,6 @@ _How does the Code of Conduct for the event support diversity and inclusion?_
 Section 1:
 * Does the event website host an event Code of Conduct?
   * __Yes/No:__ 
-
 Section 2: (To section 3 if previous answer is NO)
 * Is the Code of Conduct posted at the event?
   * __Yes/No:__ 
@@ -50,7 +48,6 @@ Section 2: (To section 3 if previous answer is NO)
   * __Yes/No:__ 
 * Does the Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior?
   * __Yes/No:__ 
-
 Section 3:
 * Please provide a statement on your event's commitment to its Event Code of Conduct
   * __Essay:__
@@ -72,7 +69,6 @@ Section 1:
   * __Short Answer:__ 
 * What are the criteria for qualifying for a diversity access ticket?
   * __Essay:__ 
- 
 Section 2: 
 * Please provide a statement on your event's commitment to Diversity Access Tickets.
   * __Essay:__ 
@@ -88,7 +84,6 @@ Section 1:
   * __Yes/No:__
 * Does the conference explicitly invite attendees to bring their children?
   * __Yes/No:__
-  
 Section 2:
 * Does the event have a mother’s room?
   * __Yes/No:__
@@ -98,7 +93,6 @@ Section 2:
   * __Yes/No:__
 * Does the event have special sessions for children?
   * __Yes/No:__
-
 Section 3:
 * Please provide a statement on your event's commitment to Family Friendliness.
   * __Essay:__
