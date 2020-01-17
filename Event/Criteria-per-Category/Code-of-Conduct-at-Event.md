@@ -1,6 +1,6 @@
 # Code of Conduct at Event
 
-Metric Question: How does the Code of Conduct for events support diversity and inclusion?
+Metric Question: How does the Code of Conduct for the event support diversity and inclusion?
 
 ## Questions
 
