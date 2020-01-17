@@ -87,3 +87,34 @@ Section 1:
 Section 2: 
 * Please provide a statement on your event's commitment to Diversity Access Tickets.
   * __Essay:__ 
+
+# Event Diversity - Family Friendliness
+
+_How does enabling families to attend together support diversity and inclusion of the event?_
+
+Section 1:
+* Does the conference promote activities for children and youth?
+  * __Yes/No:__
+
+* Does the conference promote family-oriented activities?
+  * __Yes/No:__
+
+* Does the conference explicitly invite attendees to bring their children?
+  * __Yes/No:__
+
+Section 2:
+* Does the event have a mother’s room?
+  * __Yes/No:__
+
+* Does the event offer child care?
+  * __Yes/No:__
+
+* Does the event provide activities and care that support tweens/teens (youth) and not only young children?
+  * __Yes/No:__
+
+* Does the event have special sessions for children?
+  * __Yes/No:__
+
+Section 3:
+* Please provide a statement on your event's commitment to Family Friendliness.
+  * __Essay:__
