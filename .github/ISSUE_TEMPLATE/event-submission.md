@@ -29,7 +29,7 @@ Section 1:
   * How many attendees identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
     * __Essay:__ 
   * How many attendees identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
-   * __Essay:__ 
+    * __Essay:__ 
   
 Section 2:
 * Please provide a statement on your event's commitment to Attendee Diversity & Inclusion.
