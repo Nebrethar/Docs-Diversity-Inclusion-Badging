@@ -7,7 +7,6 @@ Metric Question: How are Diversity Access Tickets used to support diversity and 
 Section 1:
 * Yes/No: Are numbers from previous conferences displayed on the event website about how many diversity access tickets were used?
   
-Section 2: (Skipped if previous answer is NO)
 * Yes/No: Are regular attendees encouraged to sponsor diversity access tickets?
   
 * Yes/No: Are sponsors of diversity access tickets named?
