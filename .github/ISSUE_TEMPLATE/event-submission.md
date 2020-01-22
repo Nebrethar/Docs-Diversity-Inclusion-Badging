@@ -20,13 +20,13 @@ Items that are required for you to fill out are __bold__
 Metric Question: _How diverse and inclusive are the attendees?_
 
 Section 1:
-  * Are the attendee demographics of your event measured?
+  * Are the attendee demographics of the event measured?
     * __Yes/No:__ 
   * If the previous answer is yes, what is the process for measuring attendee demographics?
     * __Essay:__ 
   
 Section 2:
-* Please provide a statement on your event's commitment to Attendee Diversity & Inclusion.
+* Please provide a statement on the event's commitment to Attendee Diversity & Inclusion.
   * __Essay:__ 
 
 ## Code of Conduct at Event
@@ -46,7 +46,7 @@ Section 2: (Skip to section 3 if previous answer is NO)
     * __Yes/No:__ 
     
 Section 3:
-  * Please provide a statement on your event's commitment to its Event Code of Conduct
+  * Please provide a statement on the event's commitment to its Event Code of Conduct
     * __Essay:__
 
 ## Diversity Access Tickets
@@ -68,7 +68,7 @@ Section 1:
     * __Essay:__ 
     
 Section 2: 
-  * Please provide a statement on your event's commitment to Diversity Access Tickets.
+  * Please provide a statement on the event's commitment to Diversity Access Tickets.
     * __Essay:__ 
 
 # Family Friendliness
@@ -87,7 +87,7 @@ Section 1:
     <br/>If the answer is yes, provide proof.
     
 Section 2:
-  * Please provide a statement on your event's commitment to Family Friendliness.
+  * Please provide a statement on the event's commitment to Family Friendliness.
     * __Essay:__
 
 # Speaker Demographics
