@@ -79,11 +79,9 @@ Section 1:
   * Does the conference promote activities for children and youth? If the answer is yes, provide proof.
     * __Yes/No:__
     <br/>If the answer is yes, provide proof.
-    
   * Does the conference promote family-oriented activities? If the answer is yes, provide proof.
     * __Yes/No:__
     <br/>If the answer is yes, provide proof.
-    
   * Does the conference explicitly invite attendees to bring their children? If the answer is yes, provide proof.
     * __Yes/No:__
     <br/>If the answer is yes, provide proof.
