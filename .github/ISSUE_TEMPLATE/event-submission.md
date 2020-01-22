@@ -17,18 +17,12 @@ Items that are required for you to fill out are __bold__
 
 ## Attendee Demographics
 
-_How diverse and inclusive are the attendees?_
+Metric Question: _How diverse and inclusive are the attendees?_
 
 Section 1:
-  * What is the total number of registered attendees at the event?
-    * __Short Answer:__ 
-  * How many attendees require accommodations
-    * __Short Answer:__ 
-  * Which nations are represented by the attendees at your event, and how many attendees are from each nation listed?
-    * __Essay:__ 
-  * How many attendees identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
-    * __Essay:__ 
-  * How many attendees identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
+  * Are the attendee demographics of your event measured?
+    * __Yes/No:__ 
+  * If the previous answer is yes, what is the process for measuring attendee demographics?
     * __Essay:__ 
   
 Section 2:
@@ -37,12 +31,13 @@ Section 2:
 
 ## Code of Conduct at Event
 
-_How does the Code of Conduct for the event support diversity and inclusion?_
+Metric Question: _How does the Code of Conduct for the event support diversity and inclusion?_
 
 Section 1:
   * Does the event website host an event Code of Conduct?
     * __Yes/No:__ 
-  Section 2: (To section 3 if previous answer is NO)
+    
+Section 2: (Skip to section 3 if previous answer is NO)
   * Is the Code of Conduct posted at the event?
     * __Yes/No:__ 
   * Does the Event Code of Conduct have a clear avenue for reporting violations at the event?
@@ -56,7 +51,7 @@ Section 3:
 
 ## Diversity Access Tickets
 
-_How are Diversity Access Tickets used to support diversity and inclusion for an event?_
+Metric Question: _How are Diversity Access Tickets used to support diversity and inclusion for an event?_
 
 Section 1:
   * Are numbers from previous conferences displayed on the event website about how many diversity access tickets were used?
@@ -78,46 +73,35 @@ Section 2:
 
 # Family Friendliness
 
-_How does enabling families to attend together support diversity and inclusion of the event?_
+Metric Question: _How does enabling families to attend together support diversity and inclusion of the event?_
 
 Section 1:
-  * Does the conference promote activities for children and youth?
+  * Does the conference promote activities for children and youth? If the answer is yes, provide proof.
     * __Yes/No:__
-  * Does the conference promote family-oriented activities?
-    * __Yes/No:__
-  * Does the conference explicitly invite attendees to bring their children?
-    * __Yes/No:__
+    <br/>If the answer is yes, provide proof.
     
-  Section 2:
-  * Does the event have a mother’s room?
+  * Does the conference promote family-oriented activities? If the answer is yes, provide proof.
     * __Yes/No:__
-  * Does the event offer child care?
-    * __Yes/No:__
-  * Does the event provide activities and care that support tweens/teens (youth) and not only young children?
-    * __Yes/No:__
-  * Does the event have special sessions for children?
-    * __Yes/No:__
+    <br/>If the answer is yes, provide proof.
     
-Section 3:
+  * Does the conference explicitly invite attendees to bring their children? If the answer is yes, provide proof.
+    * __Yes/No:__
+    <br/>If the answer is yes, provide proof.
+    
+Section 2:
   * Please provide a statement on your event's commitment to Family Friendliness.
     * __Essay:__
 
 # Speaker Demographics
 
-_How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?_
+Metric Question: _How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?_
 
 Section 1:
-* What is the total number of registered speakers at the event?
-    * __Short Answer:__ 
-* How many speakers require accommodations?
-    * __Short Answer:__ 
-* Which nations are represented by the speakers at your event, and how many speakers are from each nation listed?
-    * __Essay:__
-* How many speakers identify with each of the racial backgrounds listed on your event's demographic survey? (Includes "Prefer not to answer")
-    * __Essay:__
-* How many speakers identify with each of the pronouns listed on your event's demographic survey? (Includes "Prefer not to answer")
-    * __Essay:__
-
+  * Are the speaker demographics of your event measured?
+    * __Yes/No:__ 
+  * If the previous answer is yes, what is the process for measuring speaker demographics?
+    * __Essay:__ 
+    
 Section 2:
 * Please provide a statement on your event's commitment to Speaker Diversity & Inclusion.
     * __Essay:__
