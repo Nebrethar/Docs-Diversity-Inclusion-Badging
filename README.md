@@ -1,6 +1,6 @@
-# Docs-Diversity-Inclusion-Badging
+<img src="images/badging.png" height="50%" width="50%">
 
-![gold status](/images/gold.png)
+# Docs-Diversity-Inclusion-Badging
 
 This is the repository that houses all documentation related to the Diversity & Inclusion Badging Project
 
