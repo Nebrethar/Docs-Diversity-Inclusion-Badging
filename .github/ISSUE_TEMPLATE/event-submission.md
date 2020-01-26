@@ -108,7 +108,7 @@ Metric Question: _How are Diversity Access Tickets used to support diversity and
 
 `A` <!-- Essay (Required) -->
 
-# Family Friendliness
+## Family Friendliness
 
 Metric Question: _How does enabling families to attend together support diversity and inclusion of the event?_
 
@@ -138,7 +138,7 @@ Metric Question: _How does enabling families to attend together support diversit
 
 `A` <!-- Essay (Required) -->
 
-# Speaker Demographics
+## Speaker Demographics
 
 Metric Question: _How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?_
 
