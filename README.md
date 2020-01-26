@@ -1,5 +1,7 @@
 # Docs-Diversity-Inclusion-Badging
 
+![gold status](/images/gold.png)
+
 This is the repository that houses all documentation related to the Diversity & Inclusion Badging Project
 
 ## Goal
