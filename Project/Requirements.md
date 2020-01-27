@@ -4,23 +4,19 @@
   The project must store their software in a repository that can be browsed to and cloned without registration. <br/>
   The project must use a public issue tracker. <br/>
   The project must allow new contributers via their issue tracker. <br/>
-  
-## Deliverables and Criteria
-  See [this document](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/blob/master/Project/Devliverables.md) for a brief list of project deliverables. <br/>
-  The criteria for submission and more details can be found in the folder [Criteria per Category](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/tree/master/Project/Criteria-Per-Category)
 
 ## Diversity & Inclusion Badge Statuses
-There are four possible statuses for the Diversity and Inclusion Badging program:
+There are four possible statuses for the Diversity and Inclusion Badging Program:
 
   - Not Passing - 2 or less deliverables met
   - Passing - 3 deliverables met
   - Silver - 4 deliverables met
   - Gold - 5 (all) deliverables met
-  
-Some deliverables may be more difficult than others. The goal is Gold!
 
 ## The Submission Process
-Submit deliverables to <msnell@unomaha.edu>. You may send different deliverables at different times.
+  To recieve a D&I Badge for a project you must submit information about the event's D&I practices with an issue.
+   
+  To begin, create an issue on this repository in the "Project Submission" category.
   
 ## The Review Process
-TBD
+  TBD 
