@@ -14,6 +14,21 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
   * Aligning the badging program with best practices, guidelines and recommendations from Diversity & Inclusion efforts on the CHAOSS project
   * Connecting with existing badging standards of IMS Global including
   * Building an open, peer-review system for the D&I Badging Program
+  
+## Badge Levels
+
+Four statuses exist for the Diversity and Inclusion Badging Program:
+
+  * Not Passing
+    * No Badge
+  * Passing 
+    * <img src="images/bronze.png" height="15%" width="15%">
+  * Silver 
+    * <img src="images/silver.png" height="15%" width="15%">
+  * gold
+    * <img src="images/gold.png" height="15%" width="15%">
+
+Each badge is made for an event or a project.
 
 ### Problem Statement
 
