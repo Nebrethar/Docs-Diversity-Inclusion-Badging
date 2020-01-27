@@ -14,12 +14,9 @@ There are four possible statuses for the Diversity and Inclusion Badging Program
   - Gold - 5 (all) deliverables met
 
 ## The Submission Process
-  To recieve a D&I Badge for a project, you must submit information about your project's D&I through a series google forms.<br/>
-  The primary form contains links for five surveys. Each survey is 5 to 10 questions long.<br/><br/>
-  You can find the primary form here:<br/>
-    https://forms.gle/Wjk6kXZp2jcB5AMu8<br/><br/>
-  Please complete all five surveys with honest and complete answers.<br/>
-  Once you are finished, send an email to <msnell@unomaha.edu> to confirm your completion of the submission process.
+  To recieve a D&I Badge for an event you must submit information about the event's D&I practices with an issue.
+   
+  To begin, create an issue on this repository in the "Event Submission" category.
   
 ## The Review Process
   TBD 
