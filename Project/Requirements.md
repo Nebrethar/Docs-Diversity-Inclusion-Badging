@@ -14,7 +14,7 @@ There are four possible statuses for the Diversity and Inclusion Badging Program
   - Gold - 5 (all) deliverables met
 
 ## The Submission Process
-  To recieve a D&I Badge for a project you must submit information about the event's D&I practices with an issue.
+  To recieve a D&I Badge for a project you must submit information about the project's D&I practices with an issue.
    
   To begin, create an issue on this repository in the "Project Submission" category.
   
