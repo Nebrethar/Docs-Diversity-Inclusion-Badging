@@ -93,7 +93,7 @@ Metric Question: _What is the thoroughness, and accessibility of documentation a
 
 `A` <!-- Yes/No (Required) -->
 
-  * (Inclusion) Does the documentation avoid non-inclusive language? (this could be ‘brogrammer’ language or exclusionary/derogatory language)
+`Q` (Inclusion) Does the documentation avoid non-inclusive language? (this could be ‘brogrammer’ language or exclusionary/derogatory language)
 
 `A` <!-- Yes/No (Required) -->
 
