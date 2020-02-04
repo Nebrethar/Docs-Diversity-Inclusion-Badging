@@ -14,10 +14,6 @@ Thanks for starting the process of submitting an event for D&I Badging. To recei
 
 Items are marked with `Q` and `A` lines with comments for each answer.
 
-SEE:
-    Criteria per Category folder for more information on each metric
-    https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/tree/master/Event/Criteria-per-Category
-
 -->
 
 ## Attendee Demographics
