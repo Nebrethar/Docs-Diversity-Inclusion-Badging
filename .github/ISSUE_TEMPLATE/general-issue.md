@@ -7,8 +7,12 @@ assignees: ''
 
 ---
 
-**Describe the issue**
-A clear and concise description of what you want to happen.
+# General Issue
 
-**Additional context**
-Add any other context or screenshots about the issue here.
+`Q` What is the issue you are experiencing?
+
+`A` <!-- A clear and concise description of what you want to happen. -->
+
+`Q` Do you have any additional context to share?
+
+`A` <!-- Add any other context or screenshots about the issue here. -->
