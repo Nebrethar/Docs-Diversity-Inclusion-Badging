@@ -1,5 +1,5 @@
 ## Submission Requirements
-  The event must have a public website.
+  The event must have a public website. <br/>
   The event must represent software development or any directly related field.
 
 ## The Submission Process
