@@ -22,7 +22,7 @@ Four statuses exist for the Diversity and Inclusion Badging Program:
   * Not Passing
     * <img src="assets/badges/nopass.png" height="15%" width="15%">
   * Passing 
-    * <img src="assets/badges/padding.png" height="15%" width="15%">
+    * <img src="assets/badges/passing.png" height="15%" width="15%">
   * Silver 
     * <img src="assets/badges/silver.png" height="15%" width="15%">
   * gold
