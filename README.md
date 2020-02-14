@@ -20,9 +20,9 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
 Four statuses exist for the Diversity and Inclusion Badging Program:
 
   * Not Passing
-    * <img src="assets/badges/notpassing.png" height="15%" width="15%">
+    * <img src="assets/badges/nopass.png" height="15%" width="15%">
   * Passing 
-    * <img src="assets/badges/bronze.png" height="15%" width="15%">
+    * <img src="assets/badges/padding.png" height="15%" width="15%">
   * Silver 
     * <img src="assets/badges/silver.png" height="15%" width="15%">
   * gold
