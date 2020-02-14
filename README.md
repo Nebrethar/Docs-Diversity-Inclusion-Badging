@@ -47,7 +47,4 @@ The project is in its beginning stages. See the issue templates for the most up-
 **Maintainers**
 
 - [Matt Snell](https://github.com/nebrethar)
-
-**Core Contributors**
-
 - [Saleh Abdel Motaal](https://github.com/smotaal)
