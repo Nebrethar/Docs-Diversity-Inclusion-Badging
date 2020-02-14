@@ -5,14 +5,6 @@
   The project must use a public issue tracker. <br/>
   The project must allow new contributers via their issue tracker. <br/>
 
-## Diversity & Inclusion Badge Statuses
-There are four possible statuses for the Diversity and Inclusion Badging Program:
-
-  - Not Passing - 2 or less deliverables met
-  - Passing - 3 deliverables met
-  - Silver - 4 deliverables met
-  - Gold - 5 (all) deliverables met
-
 ## The Submission Process
   To recieve a D&I Badge for a project you must submit information about the project's D&I practices with an issue.
    
