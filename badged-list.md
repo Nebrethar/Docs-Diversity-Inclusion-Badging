@@ -1,1 +1,0 @@
-## Badged Events
